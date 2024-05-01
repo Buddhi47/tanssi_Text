@@ -99,7 +99,7 @@ using the well known private key `bottom drive obey lake curtain smoke basket ho
 - Address: 5HGjWAeFDfFCWPsjFQdVV2Msvz2XtMktvgocEZcCj68kUMaw
 
 # Ferdie:
-- Address: 5CiPPseXPECbkjWCa6MnjNokrgYjMqmKndv2rSnekmSK2DjL
+- Address:
 
 ```
 ## Runtime Architecture
